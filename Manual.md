@@ -64,7 +64,7 @@ If a segment’s CRC does not match, a warning is logged. The output may include
 5. Final Notes:
 
 Versioning:
-This manual applies to SCP version 4.8a. Future updates may introduce additional features or modifications.
+This manual applies to EDTI version 5.7b. Future updates may introduce additional features or modifications.
 
 Note: This is the end of the game! Here's the answer: FIVE. It took five total reworks to get this thing to work... I really wish, that it took less. :'(
 
