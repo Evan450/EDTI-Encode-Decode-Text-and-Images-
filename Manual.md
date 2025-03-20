@@ -1,6 +1,6 @@
 Encode Decode Text and Images Manual (v5.7b)
 
-Note: This one specifically was an absoulte PAIN to deal with so... want to play a game?
+Note: This one specifically was an absoulte PAIN to deal with so... want to play a game? 
 Just guess how many FULL reworks this took, and I'll leave a note at the end that tells you!
 Also, Sorry that this isn't really a manual (as it doesn't tell you how to use it and stuff) I'm trying something new, again sorry for the inconvenince.
 
