@@ -19,7 +19,7 @@
 
 Name: Encode Decode Text and Images (EDTI)
 Author: Discover Interactive
-Version: 6.1
+Version: 6.1.0b
 Description:
   - Added FDM support (automatic/manual), must be activated first to work.
   - Fixed miscellaneous bugs and issues that were found.
